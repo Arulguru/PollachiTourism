@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/PollachiTourism/static/css/main.be36719f.chunk.css",
-    "main.js": "/PollachiTourism/static/js/main.68af7da7.chunk.js",
-    "main.js.map": "/PollachiTourism/static/js/main.68af7da7.chunk.js.map",
+    "main.css": "/PollachiTourism/static/css/main.f9d250c6.chunk.css",
+    "main.js": "/PollachiTourism/static/js/main.9cbbbe1e.chunk.js",
+    "main.js.map": "/PollachiTourism/static/js/main.9cbbbe1e.chunk.js.map",
     "runtime-main.js": "/PollachiTourism/static/js/runtime-main.3a7126d8.js",
     "runtime-main.js.map": "/PollachiTourism/static/js/runtime-main.3a7126d8.js.map",
     "static/css/2.f7d5f77a.chunk.css": "/PollachiTourism/static/css/2.f7d5f77a.chunk.css",
@@ -12,7 +12,7 @@
     "static/js/3.00a6f92b.chunk.js.map": "/PollachiTourism/static/js/3.00a6f92b.chunk.js.map",
     "index.html": "/PollachiTourism/index.html",
     "static/css/2.f7d5f77a.chunk.css.map": "/PollachiTourism/static/css/2.f7d5f77a.chunk.css.map",
-    "static/css/main.be36719f.chunk.css.map": "/PollachiTourism/static/css/main.be36719f.chunk.css.map",
+    "static/css/main.f9d250c6.chunk.css.map": "/PollachiTourism/static/css/main.f9d250c6.chunk.css.map",
     "static/js/2.5b422d44.chunk.js.LICENSE.txt": "/PollachiTourism/static/js/2.5b422d44.chunk.js.LICENSE.txt",
     "static/media/Aazhiyar1.4a958afc.jpg": "/PollachiTourism/static/media/Aazhiyar1.4a958afc.jpg",
     "static/media/AazhiyarTop.e50402e0.jpg": "/PollachiTourism/static/media/AazhiyarTop.e50402e0.jpg",
@@ -29,6 +29,8 @@
     "static/media/Vaalparai.ee628ee2.jpg": "/PollachiTourism/static/media/Vaalparai.ee628ee2.jpg",
     "static/media/Valparai.63031195.cms": "/PollachiTourism/static/media/Valparai.63031195.cms",
     "static/media/Valparaiterrain.181e7807.jpg": "/PollachiTourism/static/media/Valparaiterrain.181e7807.jpg",
+    "static/media/bus.8848cf0c.jpg": "/PollachiTourism/static/media/bus.8848cf0c.jpg",
+    "static/media/estate.2cb3cd23.jpg": "/PollachiTourism/static/media/estate.2cb3cd23.jpg",
     "static/media/festBalloon.9b2981db.jpg": "/PollachiTourism/static/media/festBalloon.9b2981db.jpg",
     "static/media/logo.6ce24c58.svg": "/PollachiTourism/static/media/logo.6ce24c58.svg",
     "static/media/monkey-falls.cbf3a859.jpg": "/PollachiTourism/static/media/monkey-falls.cbf3a859.jpg",
@@ -36,6 +38,7 @@
     "static/media/park.24d7b523.jpg": "/PollachiTourism/static/media/park.24d7b523.jpg",
     "static/media/pollachi-travel.061b6188.jpg": "/PollachiTourism/static/media/pollachi-travel.061b6188.jpg",
     "static/media/roadValparai.a62eae24.jfif": "/PollachiTourism/static/media/roadValparai.a62eae24.jfif",
+    "static/media/sholayar.148dafa6.jpg": "/PollachiTourism/static/media/sholayar.148dafa6.jpg",
     "static/media/temple.f1343953.jpg": "/PollachiTourism/static/media/temple.f1343953.jpg",
     "static/media/topslip.000547bd.jpg": "/PollachiTourism/static/media/topslip.000547bd.jpg",
     "static/media/topslip4.54776066.jpg": "/PollachiTourism/static/media/topslip4.54776066.jpg",
@@ -45,7 +48,7 @@
     "static/js/runtime-main.3a7126d8.js",
     "static/css/2.f7d5f77a.chunk.css",
     "static/js/2.5b422d44.chunk.js",
-    "static/css/main.be36719f.chunk.css",
-    "static/js/main.68af7da7.chunk.js"
+    "static/css/main.f9d250c6.chunk.css",
+    "static/js/main.9cbbbe1e.chunk.js"
   ]
 }
