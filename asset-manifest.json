@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/PollachiTourism/static/css/main.458005e3.chunk.css",
-    "main.js": "/PollachiTourism/static/js/main.e62b90f4.chunk.js",
-    "main.js.map": "/PollachiTourism/static/js/main.e62b90f4.chunk.js.map",
+    "main.css": "/PollachiTourism/static/css/main.06bfc3b5.chunk.css",
+    "main.js": "/PollachiTourism/static/js/main.dac0e968.chunk.js",
+    "main.js.map": "/PollachiTourism/static/js/main.dac0e968.chunk.js.map",
     "runtime-main.js": "/PollachiTourism/static/js/runtime-main.3a7126d8.js",
     "runtime-main.js.map": "/PollachiTourism/static/js/runtime-main.3a7126d8.js.map",
     "static/css/2.f7d5f77a.chunk.css": "/PollachiTourism/static/css/2.f7d5f77a.chunk.css",
@@ -12,7 +12,7 @@
     "static/js/3.00a6f92b.chunk.js.map": "/PollachiTourism/static/js/3.00a6f92b.chunk.js.map",
     "index.html": "/PollachiTourism/index.html",
     "static/css/2.f7d5f77a.chunk.css.map": "/PollachiTourism/static/css/2.f7d5f77a.chunk.css.map",
-    "static/css/main.458005e3.chunk.css.map": "/PollachiTourism/static/css/main.458005e3.chunk.css.map",
+    "static/css/main.06bfc3b5.chunk.css.map": "/PollachiTourism/static/css/main.06bfc3b5.chunk.css.map",
     "static/js/2.e238eafb.chunk.js.LICENSE.txt": "/PollachiTourism/static/js/2.e238eafb.chunk.js.LICENSE.txt",
     "static/media/Aazhiyar1.4a958afc.jpg": "/PollachiTourism/static/media/Aazhiyar1.4a958afc.jpg",
     "static/media/AazhiyarTop.e50402e0.jpg": "/PollachiTourism/static/media/AazhiyarTop.e50402e0.jpg",
@@ -20,7 +20,7 @@
     "static/media/Azhiyar_Dam.e9f0e25a.jpg": "/PollachiTourism/static/media/Azhiyar_Dam.e9f0e25a.jpg",
     "static/media/BallooFestival.d2408d25.jpg": "/PollachiTourism/static/media/BallooFestival.d2408d25.jpg",
     "static/media/Balloonfest.ac5cc797.jpg": "/PollachiTourism/static/media/Balloonfest.ac5cc797.jpg",
-    "static/media/PollachiEco.bc121971.jpg": "/PollachiTourism/static/media/PollachiEco.bc121971.jpg",
+    "static/media/myStyles.css": "/PollachiTourism/static/media/PollachiEco.bc121971.jpg",
     "static/media/TopSLip3.4307b316.jpg": "/PollachiTourism/static/media/TopSLip3.4307b316.jpg",
     "static/media/Topslip.jps.32b91281.jpg": "/PollachiTourism/static/media/Topslip.jps.32b91281.jpg",
     "static/media/Topslip2.d5011295.jpg": "/PollachiTourism/static/media/Topslip2.d5011295.jpg",
@@ -39,7 +39,7 @@
     "static/js/runtime-main.3a7126d8.js",
     "static/css/2.f7d5f77a.chunk.css",
     "static/js/2.e238eafb.chunk.js",
-    "static/css/main.458005e3.chunk.css",
-    "static/js/main.e62b90f4.chunk.js"
+    "static/css/main.06bfc3b5.chunk.css",
+    "static/js/main.dac0e968.chunk.js"
   ]
 }
