@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/PollachiTourism/static/css/main.b752721f.chunk.css",
-    "main.js": "/PollachiTourism/static/js/main.d08aff30.chunk.js",
-    "main.js.map": "/PollachiTourism/static/js/main.d08aff30.chunk.js.map",
+    "main.js": "/PollachiTourism/static/js/main.24806715.chunk.js",
+    "main.js.map": "/PollachiTourism/static/js/main.24806715.chunk.js.map",
     "runtime-main.js": "/PollachiTourism/static/js/runtime-main.3a7126d8.js",
     "runtime-main.js.map": "/PollachiTourism/static/js/runtime-main.3a7126d8.js.map",
     "static/css/2.f7d5f77a.chunk.css": "/PollachiTourism/static/css/2.f7d5f77a.chunk.css",
@@ -49,6 +49,6 @@
     "static/css/2.f7d5f77a.chunk.css",
     "static/js/2.e602df4d.chunk.js",
     "static/css/main.b752721f.chunk.css",
-    "static/js/main.d08aff30.chunk.js"
+    "static/js/main.24806715.chunk.js"
   ]
 }
