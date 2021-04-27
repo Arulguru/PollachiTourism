@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/PollachiTourism/static/css/main.06bfc3b5.chunk.css",
-    "main.js": "/PollachiTourism/static/js/main.dac0e968.chunk.js",
-    "main.js.map": "/PollachiTourism/static/js/main.dac0e968.chunk.js.map",
+    "main.css": "/PollachiTourism/static/css/main.0c1f0b0a.chunk.css",
+    "main.js": "/PollachiTourism/static/js/main.8306d820.chunk.js",
+    "main.js.map": "/PollachiTourism/static/js/main.8306d820.chunk.js.map",
     "runtime-main.js": "/PollachiTourism/static/js/runtime-main.3a7126d8.js",
     "runtime-main.js.map": "/PollachiTourism/static/js/runtime-main.3a7126d8.js.map",
     "static/css/2.f7d5f77a.chunk.css": "/PollachiTourism/static/css/2.f7d5f77a.chunk.css",
-    "static/js/2.e238eafb.chunk.js": "/PollachiTourism/static/js/2.e238eafb.chunk.js",
-    "static/js/2.e238eafb.chunk.js.map": "/PollachiTourism/static/js/2.e238eafb.chunk.js.map",
+    "static/js/2.2cfb9c83.chunk.js": "/PollachiTourism/static/js/2.2cfb9c83.chunk.js",
+    "static/js/2.2cfb9c83.chunk.js.map": "/PollachiTourism/static/js/2.2cfb9c83.chunk.js.map",
     "static/js/3.00a6f92b.chunk.js": "/PollachiTourism/static/js/3.00a6f92b.chunk.js",
     "static/js/3.00a6f92b.chunk.js.map": "/PollachiTourism/static/js/3.00a6f92b.chunk.js.map",
     "index.html": "/PollachiTourism/index.html",
     "static/css/2.f7d5f77a.chunk.css.map": "/PollachiTourism/static/css/2.f7d5f77a.chunk.css.map",
-    "static/css/main.06bfc3b5.chunk.css.map": "/PollachiTourism/static/css/main.06bfc3b5.chunk.css.map",
-    "static/js/2.e238eafb.chunk.js.LICENSE.txt": "/PollachiTourism/static/js/2.e238eafb.chunk.js.LICENSE.txt",
+    "static/css/main.0c1f0b0a.chunk.css.map": "/PollachiTourism/static/css/main.0c1f0b0a.chunk.css.map",
+    "static/js/2.2cfb9c83.chunk.js.LICENSE.txt": "/PollachiTourism/static/js/2.2cfb9c83.chunk.js.LICENSE.txt",
     "static/media/Aazhiyar1.4a958afc.jpg": "/PollachiTourism/static/media/Aazhiyar1.4a958afc.jpg",
     "static/media/AazhiyarTop.e50402e0.jpg": "/PollachiTourism/static/media/AazhiyarTop.e50402e0.jpg",
     "static/media/Aliyar-TopView.3685fadf.jpg": "/PollachiTourism/static/media/Aliyar-TopView.3685fadf.jpg",
@@ -38,8 +38,8 @@
   "entrypoints": [
     "static/js/runtime-main.3a7126d8.js",
     "static/css/2.f7d5f77a.chunk.css",
-    "static/js/2.e238eafb.chunk.js",
-    "static/css/main.06bfc3b5.chunk.css",
-    "static/js/main.dac0e968.chunk.js"
+    "static/js/2.2cfb9c83.chunk.js",
+    "static/css/main.0c1f0b0a.chunk.css",
+    "static/js/main.8306d820.chunk.js"
   ]
 }
